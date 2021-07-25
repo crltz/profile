@@ -1,3 +1,3 @@
 name=crltz
-pronouns=N/A
+pronouns=:none:
 desc=Some person who sometimes does weird things for no reason
